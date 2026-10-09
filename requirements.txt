@@ -1,0 +1,13 @@
+pandas
+pyarrow
+orjson
+vaderSentiment
+scikit-learn
+transformers
+torch
+openai
+matplotlib
+seaborn
+nltk
+tqdm
+openpyxl
